@@ -14,8 +14,6 @@ package:
       githubRepo: purescript-spec-node
   dependencies:
     - aff: ">=7.1.0 <8.0.0"
-    - argonaut-codecs: ">=9.1.0 <10.0.0"
-    - argonaut-core: ">=7.0.0 <8.0.0"
     - arrays: ">=7.3.0 <8.0.0"
     - control: ">=6.0.0 <7.0.0"
     - datetime: ">=6.1.0 <7.0.0"
