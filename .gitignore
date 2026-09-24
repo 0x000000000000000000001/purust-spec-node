@@ -11,3 +11,5 @@ generated-docs/
 .purs*
 .psa*
 .spago
+
+test-fixtures/*/.purmeta/
