@@ -12,4 +12,5 @@ generated-docs/
 .psa*
 .spago
 
-test-fixtures/*/.purmeta/
+.purmeta/
+.DS_Store
